@@ -10,7 +10,7 @@
     <groupId>net.imadz</groupId>
     <artifactId>bcel</artifactId>
     <packaging>jar</packaging>
-    <version>0.6.0</version>
+    <version>0.6.1-SNAPSHOT</version>
     <name>bcel</name>
 
     <description>
